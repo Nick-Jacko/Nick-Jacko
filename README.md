@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Nickolaus Jackoski from Arizona<br><br>- 🔭 I’m currently a student at Rhodes College<br>- 📚 I'm currently learning about Computer Vision<br>- ⚡ In my free time I watch basketball and play video games <br>- 👨‍💻 Visit my website! https://nickolausjackoski.com/</p>
+<p align="left">I'm Nickolaus Jackoski from Arizona<br><br>- 🔭 I’m currently a student at Rhodes College<br>- 📚 I'm currently learning about Computer Vision<br>- ⚡ In my free time I watch basketball and play video games <br>- 👨‍💻 Visit my website! https://nickolausjackoski.com/ <br>- [Download My Resume](https://drive.google.com/file/d/1pPSVu88zDk0kpjvlsl4N9TU6Pu-_1Hh9/view?usp=drive_link)</p>
 
 ###
 
