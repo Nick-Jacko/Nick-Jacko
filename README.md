@@ -7,12 +7,14 @@
   <a href="https://www.linkedin.com/in/nickolaus-jackoski-535241280/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="nickolaus.jackoski@gmail.com" target="_blank">
+  <a href="mailto:nickolaus.jackoski@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  
+  <a href="https://drive.google.com/file/d/1pPSVu88zDk0kpjvlsl4N9TU6Pu-_1Hh9/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=googledrive&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="resume logo"  />
   </a>
 </div>
+
 
 ###
 
