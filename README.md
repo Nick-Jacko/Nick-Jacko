@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Nick-Jacko/Nick-Jacko/assets/96447497/afccbef8-8c02-4edb-b0f7-b7e6d2a2b64e" alt="3lwa" width="200" />
+  <img src="https://github.com/Nick-Jacko/Nick-Jacko/assets/96447497/afccbef8-8c02-4edb-b0f7-b7e6d2a2b64e" alt="3lwa" width="400" />
 </div>
 
 
