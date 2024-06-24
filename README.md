@@ -14,9 +14,10 @@
     <img src="https://img.shields.io/static/v1?message=Resume&logo=googledrive&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="resume logo"  />
   </a>
   <a href="https://nickolausjackoski.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=firefox-browser&label=&color=FF7139&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo"  />
+    <img src="https://img.shields.io/static/v1?message=My%20Website&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="my website logo"  />
   </a>
 </div>
+
 
 
 ###
