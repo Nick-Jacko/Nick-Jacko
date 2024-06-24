@@ -1,9 +1,5 @@
 <h1 align="center">Hey There I'm Nick👋</h1>
 
-<div align="center">
-  <img src="https://github.dev/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif" alt="Coding at Night" />
-</div>
-
 ###
 
 <div align="center">
@@ -13,6 +9,7 @@
   <a href="mailto:nickolaus.jackoski@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+
 </div>
 
 ###
@@ -53,3 +50,5 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
 </div>
+
+Put this gif: https://github.dev/mayankchaudhary26/Cool-Rea
