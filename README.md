@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">Hey my name is Nick Jackoski <br><br>- 🔭 I’m currently a student at Rhodes College<br>- 📚 I'm currently learning about Computer Vision<br>- ⚡ In my free time I watch basketball and play video games <br>-
+<p align="left">Hey my name is Nick Jackoski <br><br>- 🔭 I’m currently a student at Rhodes College<br>- 📚 I'm currently learning about Computer Vision<br>- ⚡ In my free time I watch basketball and play video games 
 
 ###
 
