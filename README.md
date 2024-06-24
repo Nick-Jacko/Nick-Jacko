@@ -1,9 +1,4 @@
-<div align="center">
-  <img height="150" src="[https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlza3UxaXI1OWR1dm50MTl1a3EwbWxhY3FiMzdsOWp3MGszM200ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif)"  />
-</div>
 
-<iframe src="https://giphy.com/embed/u2pmTWUi0MXjyrMaVj" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj">via GIPHY</a></p>
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nickolaus-jackoski-535241280/" target="_blank">
