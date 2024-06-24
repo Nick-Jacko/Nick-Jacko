@@ -1,4 +1,5 @@
 
+![Ry6p](https://github.com/Nick-Jacko/Nick-Jacko/assets/96447497/62cf4a31-30c1-4c73-ab5a-ac9b4678819a)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nickolaus-jackoski-535241280/" target="_blank">
