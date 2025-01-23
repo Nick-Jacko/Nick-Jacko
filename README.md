@@ -1,5 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Jacko&layout=compact&theme=gruvbox&langs_count=10&hide=html,css,makefile)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="center">
   <img src="https://media.giphy.com/media/s8UHGqq9xqJmwZZtHn/giphy.gif?cid=ecf05e47lwnq0jn1w4yxv0efol7rk3bblf48qcw49gj4kz5r&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="fun gif" width="300" />
 </div>
